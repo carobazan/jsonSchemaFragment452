@@ -1,10 +1,20 @@
 {
-  "main": "jsonschemafragment452.json",
-  "name": "jsonSchemaFragment452",
-  "classifier": "json-schema",
+  "dependencies": [
+    {
+      "version": "1.0.0",
+      "classifier": "oas-components",
+      "assetId": "oas-component-automation",
+      "groupId": "a4b25129-00a1-42a7-a513-cba7fb01ab75",
+      "packaging": "zip",
+      "provided": false
+    }
+  ],
+  "version": "1.0.0",
   "apiVersion": "v1",
   "descriptorVersion": "1.0.0",
-  "groupId": null,
+  "classifier": "json-schema",
+  "main": "jsonschemafragment452.json",
   "assetId": "jsonschemafragment452",
-  "version": "1.0.0"
+  "groupId": "null",
+  "name": "jsonSchemaFragment452"
 }
